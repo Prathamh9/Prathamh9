@@ -112,7 +112,7 @@ UI development, APIs, Firebase and application functionality.
 
 ## 📊 GitHub Stats
 
-![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamh9&show_icons=true&theme=tokyonight)
 
 ---
 
